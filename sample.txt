@@ -1,3 +1,5 @@
 đến cả con khỉ cũng hiểu được lệnh git
 add: Đăng ký thay đổi trong index
+
+tutorial1: đây là tutorial1
 tutorial2: đây là tutorial 2
